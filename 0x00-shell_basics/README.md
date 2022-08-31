@@ -1,1 +1,1 @@
-A script that prints the absolute path
+My Shell basics readme file
